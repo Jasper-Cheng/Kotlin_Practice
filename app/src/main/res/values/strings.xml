@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ParticeKotlin</string>
+    <string name="custom_search">custom_search</string>
+    <string name="custom_share">custom_share</string>
+    <string name="custom_setting">custom_setting</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
 </resources>
